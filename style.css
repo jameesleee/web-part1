@@ -1,0 +1,3093 @@
+.www-tiffany-com-au {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.www-tiffany-com-au .div-page-wrap {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-global-banner {
+  flex-direction: column;
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwtiffanycomaubermuda);
+}
+
+.www-tiffany-com-au .div-slick-list-wrapper {
+  min-height: 43px;
+  align-items: center;
+  padding: 12px 16px 8px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--wwwtiffanycomaubermuda);
+}
+
+.www-tiffany-com-au .div-slick-list {
+  width: 1888px;
+  height: 24.94px;
+  align-items: center;
+  padding: 0px 0px 0px 3776px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-tiffany-com-au .div-slick-track {
+  width: 9440px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 5664px 3.55e-15px 1888px;
+  flex: 0 0 auto;
+  margin-left: -5664px;
+  margin-right: -5664px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-tiffany-com-au .div-slick-slide {
+  width: 1888px;
+  padding: 0px 25.2px 0px 41.2px;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  min-height: 1px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-tiffany-com-au .p {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 24.94px;
+}
+
+.www-tiffany-com-au .overlap-group {
+  position: absolute;
+  width: 289px;
+  height: 27px;
+  top: -2px;
+  left: 764px;
+}
+
+.www-tiffany-com-au .text-wrapper {
+  position: absolute;
+  width: 187px;
+  height: 24px;
+  top: 0;
+  left: 0;
+  font-family: var(--www-tiffany-com-au-inter-light-14-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-light-14-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-light-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-tiffany-com-au-inter-light-14-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-light-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-light-14-font-style);
+}
+
+.www-tiffany-com-au .link {
+  position: absolute;
+  width: 102px;
+  height: 25px;
+  top: 2px;
+  left: 187px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwtiffanycomaublack);
+}
+
+.www-tiffany-com-au .div {
+  position: absolute;
+  width: 102px;
+  height: 24px;
+  top: -2px;
+  left: 0;
+  font-family: var(--www-tiffany-com-au-inter-light-14-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-light-14-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-light-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-tiffany-com-au-inter-light-14-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-light-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-light-14-font-style);
+}
+
+.www-tiffany-com-au .text-wrapper-2 {
+  position: absolute;
+  width: 5px;
+  height: 24px;
+  top: -2px;
+  left: 1053px;
+  font-family: var(--www-tiffany-com-au-inter-light-14-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-light-14-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-light-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-tiffany-com-au-inter-light-14-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-light-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-light-14-font-style);
+}
+
+.www-tiffany-com-au .button {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 18px;
+  left: 16px;
+}
+
+.www-tiffany-com-au .img {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 18px;
+  left: 1888px;
+}
+
+.www-tiffany-com-au .header {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 102px;
+  background-color: var(--wwwtiffanycomaunero);
+  border-top-width: 4px;
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-color: var(--wwwtiffanycomaubermuda);
+}
+
+.www-tiffany-com-au .overlap {
+  position: relative;
+  width: 1872px;
+  height: 532px;
+  top: 20px;
+  left: 24px;
+}
+
+.www-tiffany-com-au .overlap-2 {
+  position: absolute;
+  width: 1872px;
+  height: 532px;
+  top: 0;
+  left: 0;
+}
+
+.www-tiffany-com-au .nav-margin {
+  position: absolute;
+  width: 1872px;
+  height: 40px;
+  top: 26px;
+  left: 0;
+}
+
+.www-tiffany-com-au .nav {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  top: 16px;
+  left: -24px;
+}
+
+.www-tiffany-com-au .list {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 468.16px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .item {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 3px 28px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.www-tiffany-com-au .div-center-container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 200px;
+  width: 200px;
+  align-items: center;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 0px 0px 0px 4.28px;
+  position: absolute;
+  top: 0;
+  left: 836px;
+}
+
+.www-tiffany-com-au .link-tiffany-logo {
+  position: relative;
+  max-width: 200px;
+  flex: 0 0 auto;
+  height: 531.62px;
+  margin-left: -2.14px;
+  margin-right: -2985.73px;
+}
+
+.www-tiffany-com-au .div-left-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 836px;
+  align-items: center;
+  gap: 0px 0px;
+  padding: 0px 632.39px 0px 0px;
+  position: absolute;
+  top: 5px;
+  left: 0;
+}
+
+.www-tiffany-com-au .div-left-container-2 {
+  position: relative;
+  width: 56px;
+  object-fit: cover;
+}
+
+.www-tiffany-com-au .div-left-container-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 56px;
+  align-items: flex-start;
+  padding: 0px 40px 0px 0px;
+  position: relative;
+}
+
+.www-tiffany-com-au .link-stores-wrapper {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .link-stores {
+  position: relative;
+  align-self: stretch;
+  width: 16px;
+}
+
+.www-tiffany-com-au .link-client-care-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .link-client-care {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .button-2 {
+  position: relative;
+  width: 24px;
+  height: 16px;
+  object-fit: cover;
+}
+
+.www-tiffany-com-au .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-tiffany-com-au-inter-regular-12-title-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-12-title-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-regular-12-title-font-size);
+  text-align: center;
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-12-title-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-regular-12-title-line-height);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 0;
+  -webkit-box-orient: vertical;
+  font-style: var(--www-tiffany-com-au-inter-regular-12-title-font-style);
+}
+
+.www-tiffany-com-au .div-right-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 836px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0px 0px;
+  padding: 0px 0px 0px 513.3px;
+  position: absolute;
+  top: 5px;
+  left: 1036px;
+}
+
+.www-tiffany-com-au .tiffany-header {
+  justify-content: center;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .article {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-cta-content {
+  display: inline-flex;
+  flex-wrap: wrap;
+  height: 16px;
+  align-items: center;
+  gap: 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-right-container-2 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.www-tiffany-com-au .label-book-an {
+  align-items: flex-start;
+  padding: 0px 0px 0px 10px;
+  margin-top: -0.23px;
+  margin-bottom: -0.23px;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .label-book-an-2 {
+  align-items: flex-end;
+  padding: 0px 0px 0.47px;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-tiffany-com-au-inter-regular-12-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-12-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-regular-12-font-size);
+  text-align: right;
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-12-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-regular-12-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-12-font-style);
+}
+
+.www-tiffany-com-au .tiffany-header-wrapper {
+  padding: 0px 0px 0px 40px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .img-2 {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-wrapper-2 {
+  position: relative;
+  align-self: stretch;
+  width: 56px;
+}
+
+.www-tiffany-com-au .div-right-container-3 {
+  display: flex;
+  flex-direction: column;
+  width: 16px;
+  height: 20px;
+  align-items: flex-end;
+  justify-content: center;
+  position: relative;
+  left: 40px;
+}
+
+.www-tiffany-com-au .article-2 {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0px 0px;
+  padding: 1px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .link-wishlist-wrapper {
+  padding: 0px 0px 2.67px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .shopping-bag {
+  display: flex;
+  flex-direction: column;
+  width: 16px;
+  height: 17px;
+  align-items: flex-end;
+  justify-content: center;
+  position: relative;
+  left: 40px;
+}
+
+.www-tiffany-com-au .div-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-aem-grid {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 5672.55px;
+}
+
+.www-tiffany-com-au .div-banner-landing {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-tiffany-com-au .div-text-with-image-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 1920px;
+  width: 1920px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .link-picture {
+  height: 912px;
+  margin-top: -0.1px;
+  background-image: url(./img/holiday-hero-desktop.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .article-3 {
+  position: absolute;
+  width: 422px;
+  height: 168px;
+  top: 301px;
+  left: 1382px;
+}
+
+.www-tiffany-com-au .overlap-group-2 {
+  position: absolute;
+  width: 422px;
+  height: 114px;
+  top: 0;
+  left: 0;
+}
+
+.www-tiffany-com-au .heading {
+  width: 422px;
+  padding: 0px 102.79px 0.45px 102.8px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.www-tiffany-com-au .text-wrapper-6 {
+  font-size: var(--www-tiffany-com-au-inter-semi-bold-24-font-size);
+  line-height: var(--www-tiffany-com-au-inter-semi-bold-24-line-height);
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-tiffany-com-au-inter-semi-bold-24-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-semi-bold-24-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  text-align: center;
+  letter-spacing: var(--www-tiffany-com-au-inter-semi-bold-24-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-semi-bold-24-font-style);
+}
+
+.www-tiffany-com-au .inspired-by-a-wrapper {
+  width: 422px;
+  align-items: center;
+  padding: 10px 19.08px 0px;
+  position: absolute;
+  top: 32px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.www-tiffany-com-au .link-2 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 11px 25px;
+  position: absolute;
+  top: 128px;
+  left: 151px;
+  background-color: var(--wwwtiffanycomaunero);
+  border: 1px solid;
+  border-color: var(--wwwtiffanycomaublack);
+}
+
+.www-tiffany-com-au .text-wrapper-8 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 0.1px;
+}
+
+.www-tiffany-com-au .overlap-3 {
+  position: absolute;
+  width: 1920px;
+  height: 506px;
+  top: 972px;
+  left: 0;
+}
+
+.www-tiffany-com-au .div-text-component {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 0px 160px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-tiffany-com-au .article-4 {
+  display: flex;
+  flex-direction: column;
+  max-width: 1600px;
+  width: 1600px;
+  align-items: flex-start;
+  padding: 0px 52px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .heading-2 {
+  align-items: center;
+  padding: 0px 609.03px 9px 609.02px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .tiffany-popular {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  position: absolute;
+  top: 41px;
+  left: 0;
+}
+
+.www-tiffany-com-au .div-slick-slider-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 1920px;
+  width: 1920px;
+  align-items: flex-start;
+  padding: 24px 52px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-slick-track-wrapper {
+  padding: 0px 0px 0px 3632px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-slick-track-2 {
+  width: 5448px;
+  padding: 0px 3632px 0px 0px;
+  margin-left: -3632px;
+  margin-right: -3632px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .article-wrapper {
+  width: 454px;
+  min-height: 1px;
+  align-items: flex-start;
+  padding: 1px 0px 2px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-tiffany-com-au .article-5 {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 0px 8px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .overlap-group-wrapper {
+  position: relative;
+  align-self: stretch;
+  width: 446px;
+  overflow: hidden;
+}
+
+.www-tiffany-com-au .overlap-group-3 {
+  position: relative;
+  height: 446px;
+}
+
+.www-tiffany-com-au .div-tiffany-picture {
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-flex;
+  align-items: flex-start;
+}
+
+.www-tiffany-com-au .picture {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.www-tiffany-com-au .tiffany {
+  background-image: url(./img/tiffany-hardwearsmall-link-bracelet-38086839-993599-ed-m-jpg.png);
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  min-width: 1px;
+  max-width: 446px;
+  width: 100%;
+  min-height: 1px;
+  flex-grow: 1;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .button-3 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 0;
+  left: 406px;
+}
+
+.www-tiffany-com-au .tiffany-2 {
+  background-image: url(./img/tiffany-hardwearlarge-link-earrings-68533651-1015073-ed-jpg.png);
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  min-width: 1px;
+  max-width: 446px;
+  width: 100%;
+  min-height: 1px;
+  flex-grow: 1;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .elsa-perettidiamonds {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  min-width: 1px;
+  max-width: 446px;
+  width: 100%;
+  min-height: 1px;
+  flex-grow: 1;
+  background-image: url(./img/elsa-perettidiamonds-by-the-yard-single-diamond-pendant-12595816.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .elsa-perettidiamonds-2 {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  min-width: 1px;
+  max-width: 446px;
+  width: 100%;
+  min-height: 1px;
+  flex-grow: 1;
+  background-image: url(./img/elsa-perettidiamonds-by-the-yard-earrings-13034699-1023040-ed-jp.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .symbol-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  width: 56px;
+  height: 56px;
+  align-items: center;
+  padding: 20px;
+  position: absolute;
+  top: 192px;
+  left: 1753px;
+  background-color: var(--wwwtiffanycomaunero);
+}
+
+.www-tiffany-com-au .symbol {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  opacity: 0.75;
+  font-size: 16px;
+  text-align: center;
+  line-height: 16px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.www-tiffany-com-au .div-text-component-2 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 0px 160px;
+  position: absolute;
+  top: 1508px;
+  left: 0;
+}
+
+.www-tiffany-com-au .div-editorial {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 688px 0px 687.98px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-cta-container {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .link-3 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 11px 25px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwtiffanycomaunero);
+  border: 1px solid;
+  border-color: var(--wwwtiffanycomaublack);
+}
+
+.www-tiffany-com-au .div-grid {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 0px 320px;
+  position: absolute;
+  top: 1608px;
+  left: 0;
+}
+
+.www-tiffany-com-au .div-fifty-fifty {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1280px;
+  width: 1280px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 0px 72px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-band-item-margin {
+  display: flex;
+  flex-direction: column;
+  width: 568px;
+  align-items: flex-start;
+  padding: 0px 56px 0px 0px;
+  position: relative;
+}
+
+.www-tiffany-com-au .div-no-padding {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .article-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .t-HP {
+  position: relative;
+  max-width: 512px;
+  width: 512px;
+  height: 640px;
+  background-image: url(./img/t-hp-50-50-opt4-desktop.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .div-text-with-image {
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 0px 202.34px 0px 202.33px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .article-7 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  padding: 0px 0px 4.93px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .heading-3 {
+  padding: 0px 0px 0.45px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.www-tiffany-com-au .link-4 {
+  position: relative;
+  width: 86.27px;
+  height: 18px;
+}
+
+.www-tiffany-com-au .text-wrapper-9 {
+  position: absolute;
+  width: 74px;
+  height: 18px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 17.5px;
+  white-space: nowrap;
+}
+
+.www-tiffany-com-au .symbol-2 {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 6px;
+  left: 78px;
+  font-family: var(--www-tiffany-com-au-inter-regular-8-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-8-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-regular-8-font-size);
+  text-align: center;
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-8-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-regular-8-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-8-font-style);
+}
+
+.www-tiffany-com-au .div-no-padding-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 568px;
+  align-items: flex-start;
+  padding: 0px 0px 0px 56px;
+  position: relative;
+}
+
+.www-tiffany-com-au .element-HP {
+  position: relative;
+  max-width: 512px;
+  width: 512px;
+  height: 640px;
+  background-image: url(./img/2023-lock2-0-hp-50-50-10-desktop.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .div-text-with-image-2 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 0px 182.2px 0px 182.19px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-quick-links {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  position: absolute;
+  top: 2382px;
+  left: 0;
+}
+
+.www-tiffany-com-au .div-padding-top-none-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  min-height: 100px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-padding-top-none {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 160px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-desktop {
+  display: flex;
+  flex-direction: column;
+  max-width: 1600px;
+  width: 1600px;
+  align-items: center;
+  gap: 16px;
+  padding: 0px 44px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-tiffany-rte-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 581.46px 14px 581.45px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-tiffany-rte {
+  flex-direction: column;
+  padding: 0px 0px 2.56e-13px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: flex-start;
+}
+
+.www-tiffany-com-au .p-2 {
+  align-items: center;
+  padding: 0px 60.8px 0.01px 60.82px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 41px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.www-tiffany-com-au .p-3 {
+  align-items: center;
+  padding: 0px 0px 0.97px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-top: -0.97px;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .text-wrapper-11 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-tiffany-com-au-inter-light-14-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-light-14-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-light-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-tiffany-com-au-inter-light-14-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-light-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-light-14-font-style);
+}
+
+.www-tiffany-com-au .div-quicklink {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: center;
+  gap: 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-quicklink-2 {
+  display: flex;
+  flex-direction: column;
+  width: 252px;
+  align-items: flex-start;
+  gap: 3px;
+  padding: 0px 8px;
+  position: relative;
+}
+
+.www-tiffany-com-au .link-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 1px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .picture-necklace {
+  max-width: 234px;
+  width: 234px;
+  height: 234px;
+  background-image: url(./img/picture-necklace-op3.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .necklaces-pendants-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1px 41.54px 1px 41.55px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-tiffany-com-au-inter-regular-14-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-14-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-regular-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-14-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-regular-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-14-font-style);
+}
+
+.www-tiffany-com-au .picture-rings {
+  max-width: 234px;
+  width: 234px;
+  height: 234px;
+  background-image: url(./img/picture-rings.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .link-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1px 99.53px 1px 99.52px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-left: -0.03px;
+  margin-right: -0.02px;
+  font-family: var(--www-tiffany-com-au-inter-regular-14-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-14-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-regular-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-14-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-regular-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-14-font-style);
+}
+
+.www-tiffany-com-au .picture-earrings {
+  max-width: 234px;
+  width: 234px;
+  height: 234px;
+  background-image: url(./img/picture-earrings.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .link-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1px 88.9px 1px 88.91px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .picture-bracelet {
+  max-width: 234px;
+  width: 234px;
+  height: 234px;
+  background-image: url(./img/picture-bracelet.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .link-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1px 85.46px 1px 85.45px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .picture-2 {
+  position: relative;
+  max-width: 234px;
+  width: 234px;
+  height: 234px;
+  background-image: url(./img/picture-engagementrings.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .link-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1px 53.47px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .picture-homedecor {
+  position: relative;
+  max-width: 234px;
+  width: 234px;
+  height: 234px;
+  background-image: url(./img/picture-homedecor.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .link-10 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1px 97.78px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-story-teaser-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  min-height: 330px;
+  align-items: center;
+  padding: 30px 160px;
+  position: absolute;
+  top: 2802px;
+  left: 0;
+  background-color: var(--wwwtiffanycomaualabaster);
+}
+
+.www-tiffany-com-au .div-story-teaser {
+  display: flex;
+  flex-direction: column;
+  max-width: 1600px;
+  width: 1600px;
+  align-items: flex-start;
+  gap: 33px;
+  padding: 0px 0px 40px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .p-4 {
+  align-items: center;
+  padding: 0px 759.05px 1.48px 759.03px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-left: -0.04px;
+  margin-right: -0.04px;
+  font-family: var(--www-tiffany-com-au-inter-semi-bold-23-81-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-semi-bold-23-81-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-semi-bold-23-81-font-size);
+  text-align: center;
+  letter-spacing: var(--www-tiffany-com-au-inter-semi-bold-23-81-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-semi-bold-23-81-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-semi-bold-23-81-font-style);
+}
+
+.www-tiffany-com-au .div-tile-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 153.5px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-tile-group-item {
+  display: inline-flex;
+  max-width: 443px;
+  padding: 0px 36px 0px 0px;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-tile-group-item-2 {
+  display: inline-flex;
+  max-width: 407px;
+  padding: 1px 1px 47px;
+  background-color: var(--wwwtiffanycomaunero);
+  border: 1px solid;
+  border-color: var(--wwwtiffanycomausilver);
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .picture-wrapper {
+  display: flex;
+  padding: 20px 20px 16px;
+  align-self: stretch;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .picture-3 {
+  align-self: stretch;
+  width: 100%;
+  height: 456.25px;
+  background-image: url(./img/bb-hp-whatisnew-desktop-2.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .div-tile-group-item-3 {
+  display: flex;
+  gap: 24px;
+  padding: 0px 20px;
+  align-self: stretch;
+  width: 100%;
+  margin-top: -0.89px;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .p-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .p-5 {
+  align-items: flex-start;
+  padding: 0px 55.77px 0.88px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-tiffany-com-au-inter-semi-bold-18-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-semi-bold-18-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-semi-bold-18-font-size);
+  letter-spacing: var(--www-tiffany-com-au-inter-semi-bold-18-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-semi-bold-18-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-semi-bold-18-font-style);
+}
+
+.www-tiffany-com-au .div-tile-group-item-4 {
+  display: inline-flex;
+  padding: 0px 0px 14px;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .with-blue-book-out-wrapper {
+  align-items: flex-start;
+  padding: 0px 9.16px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .with-blue-book-out {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.www-tiffany-com-au .span {
+  font-weight: 300;
+}
+
+.www-tiffany-com-au .text-wrapper-16 {
+  font-weight: 300;
+  font-style: italic;
+}
+
+.www-tiffany-com-au .link-wrapper {
+  display: inline-flex;
+  padding: 0px 246.53px 0px 0px;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .link-11 {
+  position: relative;
+  width: 118.47px;
+  height: 25.94px;
+}
+
+.www-tiffany-com-au .text-wrapper-17 {
+  position: absolute;
+  width: 105px;
+  height: 24px;
+  top: -1px;
+  left: 1px;
+  font-family: var(--www-tiffany-com-au-inter-regular-14-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-14-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-regular-14-font-size);
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-14-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-regular-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-14-font-style);
+}
+
+.www-tiffany-com-au .symbol-3 {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 8px;
+  left: 109px;
+  font-size: var(--www-tiffany-com-au-inter-regular-8-font-size);
+  line-height: var(--www-tiffany-com-au-inter-regular-8-line-height);
+  font-family: var(--www-tiffany-com-au-inter-regular-8-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-8-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-8-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-8-font-style);
+}
+
+.www-tiffany-com-au .picture-4 {
+  align-self: stretch;
+  width: 100%;
+  height: 456.25px;
+  background-image: url(./img/2024-spring-eyewear-hp-stories1.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .p-6 {
+  align-items: flex-start;
+  padding: 0px 156.78px 0.88px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .discover-the-wrapper {
+  align-items: flex-start;
+  padding: 0px 25.95px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .text-wrapper-18 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.www-tiffany-com-au .div-tile-group-item-5 {
+  display: inline-flex;
+  flex-direction: column;
+  max-width: 407px;
+  align-items: flex-start;
+  padding: 1px 1px 47px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  background-color: var(--wwwtiffanycomaunero);
+  border: 1px solid;
+  border-color: var(--wwwtiffanycomausilver);
+}
+
+.www-tiffany-com-au .picture-5 {
+  align-self: stretch;
+  width: 100%;
+  height: 456.25px;
+  background-image: url(./img/ha-hp-whatisnew1-desktop-2.png);
+  position: relative;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .p-7 {
+  align-items: flex-start;
+  padding: 0px 174.19px 0.88px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .enrich-your-way-of-wrapper {
+  align-items: flex-start;
+  padding: 0px 14.52px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .div-banner-landing-2 {
+  top: 3735px;
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 0px 0px 56px;
+  position: absolute;
+  left: 0;
+}
+
+.www-tiffany-com-au .link-picture-2 {
+  height: 672px;
+  margin-top: -0.09px;
+  background-image: url(./img/2023-gw-hp-fwmh-desktop.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .article-8 {
+  position: absolute;
+  width: 422px;
+  height: 154px;
+  top: 215px;
+  left: 1344px;
+}
+
+.www-tiffany-com-au .heading-4 {
+  width: 422px;
+  align-items: flex-start;
+  padding: 0px 193.73px 0.45px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-tiffany-com-au-inter-semi-bold-24-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-semi-bold-24-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-semi-bold-24-font-size);
+  letter-spacing: var(--www-tiffany-com-au-inter-semi-bold-24-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-semi-bold-24-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-semi-bold-24-font-style);
+}
+
+.www-tiffany-com-au .in-tiffany-wrapper {
+  width: 422px;
+  align-items: flex-start;
+  padding: 10px 29.81px 0px 0px;
+  position: absolute;
+  top: 32px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .div-cta-link {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 3px 210.55px 4.94px 1px;
+  position: absolute;
+  top: 128px;
+  left: 0;
+}
+
+.www-tiffany-com-au .link-12 {
+  position: relative;
+  width: 210.84px;
+  height: 18px;
+}
+
+.www-tiffany-com-au .browse-love {
+  position: absolute;
+  width: 199px;
+  height: 18px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 0.1px;
+}
+
+.www-tiffany-com-au .symbol-4 {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 6px;
+  left: 203px;
+  font-size: var(--www-tiffany-com-au-inter-regular-8-font-size);
+  text-align: center;
+  line-height: var(--www-tiffany-com-au-inter-regular-8-line-height);
+  font-family: var(--www-tiffany-com-au-inter-regular-8-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-8-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-8-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-8-font-style);
+}
+
+.www-tiffany-com-au .div-banner-landing-3 {
+  top: 4463px;
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 0px 0px 56px;
+  position: absolute;
+  left: 0;
+}
+
+.www-tiffany-com-au .link-picture-3 {
+  height: 672px;
+  margin-top: -0.09px;
+  background-image: url(./img/2021-bloomgberg-hp-fwmh-desktop2.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .article-9 {
+  position: absolute;
+  width: 614px;
+  height: 130px;
+  top: 208px;
+  left: 134px;
+}
+
+.www-tiffany-com-au .overlap-group-4 {
+  position: absolute;
+  width: 614px;
+  height: 90px;
+  top: 0;
+  left: 0;
+}
+
+.www-tiffany-com-au .heading-5 {
+  width: 614px;
+  padding: 0px 209.21px 0.45px 209.2px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.www-tiffany-com-au .handcrafting-the-wrapper {
+  width: 614px;
+  align-items: center;
+  padding: 10px 12.76px 0px 12.75px;
+  position: absolute;
+  top: 32px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .link-13 {
+  position: absolute;
+  width: 234px;
+  height: 18px;
+  top: 107px;
+  left: 190px;
+}
+
+.www-tiffany-com-au .text-wrapper-20 {
+  position: absolute;
+  width: 222px;
+  height: 18px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 0.1px;
+}
+
+.www-tiffany-com-au .symbol-5 {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 6px;
+  left: 226px;
+  font-size: var(--www-tiffany-com-au-inter-regular-8-font-size);
+  text-align: center;
+  line-height: var(--www-tiffany-com-au-inter-regular-8-line-height);
+  font-family: var(--www-tiffany-com-au-inter-regular-8-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-8-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-8-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-8-font-style);
+}
+
+.www-tiffany-com-au .div-4 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 0px 160px;
+  position: absolute;
+  top: 5191px;
+  left: 0;
+}
+
+.www-tiffany-com-au .article-10 {
+  display: flex;
+  flex-direction: column;
+  max-width: 1600px;
+  width: 1600px;
+  align-items: flex-start;
+  gap: 25px;
+  padding: 0px 52px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwtiffanycomaualabaster);
+}
+
+.www-tiffany-com-au .article-11 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 29.54px 610.9px 2.54px 610.91px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-slick-list-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-slick-track-3 {
+  width: 1496px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-three-tile-wrapper {
+  width: 374px;
+  padding: 0px 12px 3px;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  min-height: 1px;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-tiffany-com-au .div-three-tile {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0px 0px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-right: -350px;
+}
+
+.www-tiffany-com-au .link-picture-HP-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.www-tiffany-com-au .link-picture-HP {
+  min-width: 1px;
+  max-width: 348px;
+  height: 348px;
+  background-image: url(./img/link-picture-hp-service-shipping-desktop.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .article-12 {
+  position: absolute;
+  width: 700px;
+  height: 121px;
+  top: 105px;
+  left: 0;
+}
+
+.www-tiffany-com-au .p-8 {
+  width: 700px;
+  align-items: center;
+  padding: 0px 90.3px 0.97px 90.28px;
+  position: absolute;
+  top: -1px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  white-space: nowrap;
+}
+
+.www-tiffany-com-au .we-offer-wrapper {
+  width: 670px;
+  align-items: center;
+  padding: 0px 3.3px 0.97px 3.28px;
+  position: absolute;
+  top: 32px;
+  left: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .text-wrapper-22 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-tiffany-com-au-inter-light-14-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-light-14-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-light-14-font-size);
+  text-align: center;
+  letter-spacing: var(--www-tiffany-com-au-inter-light-14-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-light-14-line-height);
+  font-style: var(--www-tiffany-com-au-inter-light-14-font-style);
+}
+
+.www-tiffany-com-au .div-cta {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  align-items: center;
+  padding: 3px 124.22px 4.94px 124.2px;
+  position: absolute;
+  top: 95px;
+  left: 0;
+}
+
+.www-tiffany-com-au .link-14 {
+  position: relative;
+  width: 101.58px;
+  height: 18px;
+}
+
+.www-tiffany-com-au .text-wrapper-23 {
+  position: absolute;
+  width: 86px;
+  height: 18px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 0.1px;
+}
+
+.www-tiffany-com-au .symbol-6 {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 6px;
+  left: 94px;
+  font-size: var(--www-tiffany-com-au-inter-regular-8-font-size);
+  text-align: center;
+  line-height: var(--www-tiffany-com-au-inter-regular-8-line-height);
+  font-family: var(--www-tiffany-com-au-inter-regular-8-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-8-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-8-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-8-font-style);
+}
+
+.www-tiffany-com-au .link-picture-HP-2 {
+  min-width: 1px;
+  max-width: 348px;
+  height: 348px;
+  background-image: url(./img/link-picture-hp-service-customercare-desktop.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .tiffany-at-your-wrapper {
+  width: 700px;
+  align-items: center;
+  padding: 0px 92.03px 0.97px;
+  position: absolute;
+  top: -1px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .our-client-care-wrapper {
+  width: 670px;
+  align-items: center;
+  padding: 0px 11.67px 0.97px;
+  position: absolute;
+  top: 32px;
+  left: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .div-cta-2 {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  align-items: center;
+  padding: 3px 126.5px 4.94px;
+  position: absolute;
+  top: 95px;
+  left: 0;
+}
+
+.www-tiffany-com-au .link-15 {
+  position: relative;
+  width: 97px;
+  height: 18px;
+}
+
+.www-tiffany-com-au .text-wrapper-24 {
+  position: absolute;
+  width: 81px;
+  height: 18px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 0.1px;
+}
+
+.www-tiffany-com-au .symbol-7 {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 6px;
+  left: 89px;
+  font-size: var(--www-tiffany-com-au-inter-regular-8-font-size);
+  text-align: center;
+  line-height: var(--www-tiffany-com-au-inter-regular-8-line-height);
+  font-family: var(--www-tiffany-com-au-inter-regular-8-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-8-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-8-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-8-font-style);
+}
+
+.www-tiffany-com-au .link-picture-HP-3 {
+  min-width: 1px;
+  max-width: 348px;
+  height: 348px;
+  background-image: url(./img/link-picture-hp-service-appt-desktop.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .p-9 {
+  width: 700px;
+  align-items: center;
+  padding: 0px 100.12px 0.97px 100.13px;
+  position: absolute;
+  top: -1px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .we-re-happy-to-help-wrapper {
+  width: 670px;
+  align-items: center;
+  padding: 0px 8.31px 0.97px 8.3px;
+  position: absolute;
+  top: 32px;
+  left: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .div-cta-3 {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  align-items: center;
+  padding: 3px 129.85px 4.94px 129.84px;
+  position: absolute;
+  top: 95px;
+  left: 0;
+}
+
+.www-tiffany-com-au .link-16 {
+  position: relative;
+  width: 90.31px;
+  height: 18px;
+}
+
+.www-tiffany-com-au .text-wrapper-25 {
+  position: absolute;
+  width: 75px;
+  height: 18px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 0.1px;
+}
+
+.www-tiffany-com-au .symbol-8 {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 6px;
+  left: 82px;
+  font-size: var(--www-tiffany-com-au-inter-regular-8-font-size);
+  text-align: center;
+  line-height: var(--www-tiffany-com-au-inter-regular-8-line-height);
+  font-family: var(--www-tiffany-com-au-inter-regular-8-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-8-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-8-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-8-font-style);
+}
+
+.www-tiffany-com-au .link-picture-HP-4 {
+  min-width: 1px;
+  max-width: 348px;
+  height: 348px;
+  background-image: url(./img/link-picture-hp-service-bluebox-desktop.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-tiffany-com-au .p-10 {
+  width: 700px;
+  align-items: center;
+  padding: 0px 108.19px 0.97px 108.17px;
+  position: absolute;
+  top: -1px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .your-tiffany-wrapper {
+  width: 670px;
+  align-items: center;
+  padding: 0px 2.25px 0.97px;
+  position: absolute;
+  top: 32px;
+  left: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.www-tiffany-com-au .div-cta-4 {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  align-items: center;
+  padding: 3px 108.92px 4.94px 108.91px;
+  position: absolute;
+  top: 95px;
+  left: 0;
+}
+
+.www-tiffany-com-au .link-17 {
+  position: relative;
+  width: 132.17px;
+  height: 18px;
+}
+
+.www-tiffany-com-au .text-wrapper-26 {
+  position: absolute;
+  width: 116px;
+  height: 18px;
+  top: -1px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 0.1px;
+}
+
+.www-tiffany-com-au .symbol-9 {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 6px;
+  left: 124px;
+  font-size: var(--www-tiffany-com-au-inter-regular-8-font-size);
+  text-align: center;
+  line-height: var(--www-tiffany-com-au-inter-regular-8-line-height);
+  font-family: var(--www-tiffany-com-au-inter-regular-8-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-8-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-8-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-8-font-style);
+}
+
+.www-tiffany-com-au .article-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18px 939.89px 16px 939.88px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-top: -0.01px;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-color: var(--wwwtiffanycomaubermuda);
+}
+
+.www-tiffany-com-au .item-home {
+  position: relative;
+  width: fit-content;
+  margin-top: -2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  white-space: nowrap;
+}
+
+.www-tiffany-com-au .footer {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 407.63px;
+  background-color: var(--wwwtiffanycomaunero);
+}
+
+.www-tiffany-com-au .overlap-4 {
+  position: relative;
+  width: 1920px;
+  height: 408px;
+}
+
+.www-tiffany-com-au .div-footer-line {
+  position: absolute;
+  width: 1920px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  border-top-width: 8px;
+  border-top-style: solid;
+  border-color: var(--wwwtiffanycomaubermuda);
+}
+
+.www-tiffany-com-au .div-footer-top {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1920px;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 0px 40.02px 32px 8px;
+  position: absolute;
+  top: 31px;
+  left: 0;
+}
+
+.www-tiffany-com-au .div-footer-top-2 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1497.59px;
+  align-items: flex-start;
+  gap: 0px 0px;
+  padding: 0px 681.59px 0px 0px;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-tiffany-com-au .article-article-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 272px;
+  width: 272px;
+  align-items: flex-start;
+  padding: 0px 64px 16px 32px;
+  position: relative;
+}
+
+.www-tiffany-com-au .article-article {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 97.19px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .text-wrapper-27 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-tiffany-com-au .list-2 {
+  padding: 0px 0px 0.01px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .link-aria-siteid-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 110.2px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .text-wrapper-28 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-tiffany-com-au-inter-regular-12-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-12-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-regular-12-font-size);
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-12-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-regular-12-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-12-font-style);
+}
+
+.www-tiffany-com-au .link-call-now-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 33.44px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .item-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 41.2px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .item-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 77.11px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .link-aria-siteid {
+  display: inline-flex;
+  align-items: flex-start;
+  padding: 0px 1.42e-14px 0px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .book-an-in-store {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--www-tiffany-com-au-inter-regular-12-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-12-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-regular-12-font-size);
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-12-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-regular-12-line-height);
+  font-style: var(--www-tiffany-com-au-inter-regular-12-font-style);
+}
+
+.www-tiffany-com-au .item-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 10.95px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-footer-flyout {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 63.62px 0.47px 0px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .item-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 108.91px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-footer-top-3 {
+  display: flex;
+  max-width: 272px;
+  width: 272px;
+  padding: 0px 64px 131.82px 32px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-tiffany-com-au .label-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 79.77px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .list-3 {
+  padding: 0px 0px 3.27e-13px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .item-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 78.17px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .item-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 97.17px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .item-8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 80.94px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .item-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 118.08px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-footer-top-4 {
+  display: flex;
+  max-width: 272px;
+  width: 272px;
+  padding: 0px 64px 165.77px 32px;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-tiffany-com-au .label-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 31.78px 0px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .list-4 {
+  padding: 0px 0px 1.42e-13px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .item-10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 53.94px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .link-aria-siteid-the-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 1.44px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .item-11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1.52px 82.42px 0.47px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .div-footer-top-5 {
+  display: flex;
+  flex-direction: column;
+  width: 374.39px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 7.11e-14px;
+  padding: 0px 0px 54.27px;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-tiffany-com-au .label-wrapper {
+  display: inline-flex;
+  padding: 0px 0px 11.23px;
+  position: relative;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-tiffany-com-au .label-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0.97px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-tiffany-com-au .text-wrapper-29 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 23.9px;
+  white-space: nowrap;
+}
+
+.www-tiffany-com-au .form {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 210.19px;
+}
+
+.www-tiffany-com-au .p-footer-top-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 315px;
+  width: 315px;
+  align-items: flex-start;
+  padding: 0px 31.32px 0.5px 0px;
+  position: absolute;
+  top: 24px;
+  left: 0;
+}
+
+.www-tiffany-com-au .be-the-first-to-know {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.www-tiffany-com-au .button-4 {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0px 0px;
+  padding: 9px 53px;
+  position: absolute;
+  top: 141px;
+  left: 0;
+  background-color: var(--wwwtiffanycomaunero);
+  border: 1px solid;
+  border-color: var(--wwwtiffanycomaublack);
+}
+
+.www-tiffany-com-au .text-wrapper-30 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-tiffany-com-au .div-footer-top-6 {
+  display: flex;
+  width: 374px;
+  position: absolute;
+  top: 88px;
+  left: 0;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.www-tiffany-com-au .label-5 {
+  position: absolute;
+  width: 38px;
+  height: 24px;
+  top: 6px;
+  left: 0;
+  overflow: hidden;
+}
+
+.www-tiffany-com-au .text-wrapper-31 {
+  position: absolute;
+  width: 39px;
+  height: 24px;
+  top: -2px;
+  left: 0;
+  font-family: var(--www-tiffany-com-au-inter-light-14-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-light-14-font-weight);
+  color: var(--wwwtiffanycomauboulder);
+  font-size: var(--www-tiffany-com-au-inter-light-14-font-size);
+  letter-spacing: var(--www-tiffany-com-au-inter-light-14-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-light-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-light-14-font-style);
+}
+
+.www-tiffany-com-au .input {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 29px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwtiffanycomaublack);
+}
+
+.www-tiffany-com-au .div-footer-bottom {
+  width: 1920px;
+  position: absolute;
+  top: 364px;
+  left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0px 0px;
+}
+
+.www-tiffany-com-au .div-footer-bottom-2 {
+  justify-content: center;
+  padding: 0px 640.04px 20px 0px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0px 0px;
+}
+
+.www-tiffany-com-au .button-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 639.98px;
+  align-items: flex-start;
+  padding: 3px 390.15px 4px 40px;
+  position: relative;
+  align-self: stretch;
+}
+
+.www-tiffany-com-au .button-5 {
+  position: relative;
+  width: 209.83px;
+  height: 17px;
+}
+
+.www-tiffany-com-au .label-change {
+  position: absolute;
+  width: 194px;
+  height: 24px;
+  top: -4px;
+  left: 0;
+  font-family: var(--www-tiffany-com-au-inter-semi-bold-14-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-semi-bold-14-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  font-size: var(--www-tiffany-com-au-inter-semi-bold-14-font-size);
+  letter-spacing: var(--www-tiffany-com-au-inter-semi-bold-14-letter-spacing);
+  line-height: var(--www-tiffany-com-au-inter-semi-bold-14-line-height);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-semi-bold-14-font-style);
+}
+
+.www-tiffany-com-au .symbol-10 {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 6px;
+  left: 202px;
+  font-size: var(--www-tiffany-com-au-inter-regular-8-font-size);
+  line-height: var(--www-tiffany-com-au-inter-regular-8-line-height);
+  font-family: var(--www-tiffany-com-au-inter-regular-8-font-family);
+  font-weight: var(--www-tiffany-com-au-inter-regular-8-font-weight);
+  color: var(--wwwtiffanycomaublack);
+  letter-spacing: var(--www-tiffany-com-au-inter-regular-8-letter-spacing);
+  white-space: nowrap;
+  font-style: var(--www-tiffany-com-au-inter-regular-8-font-style);
+}
+
+.www-tiffany-com-au .span-cta-content-wrapper {
+  width: 639.98px;
+  justify-content: center;
+  padding: 0px 273.26px 0px 273.27px;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0px 0px;
+}
+
+.www-tiffany-com-au .span-cta-content {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -0.27px;
+  margin-right: -0.28px;
+}
+
+.www-tiffany-com-au .t-CO {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: var(--wwwtiffanycomaublack);
+  font-size: 13.5px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.www-tiffany-com-au .dialog {
+  position: absolute;
+  width: 480px;
+  height: 1016px;
+  top: 64px;
+  left: 1920px;
+  background-color: var(--wwwtiffanycomaunero);
+  border-bottom-width: 4px;
+  border-bottom-style: solid;
+  border-color: var(--wwwtiffanycomaubermuda);
+}
+
+.www-tiffany-com-au .div-snaps-webbot {
+  display: flex;
+  flex-direction: column;
+  max-width: 520px;
+  width: 388px;
+  height: 1080px;
+  align-items: flex-start;
+  padding: 1020.63px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 1532px;
+  background-color: var(--wwwtiffanycomaunero);
+  box-shadow: 0px 3px 10px #7e7e7e80;
+}
+
+.www-tiffany-com-au .section {
+  position: relative;
+  align-self: stretch;
+  max-width: 768px;
+  width: 100%;
+  height: 59.38px;
+  background-color: var(--wwwtiffanycomauwild-sand);
+}
